@@ -1,0 +1,31 @@
+[
+  { "source": "./assets/logos/appwrite.svg", "name": "appwrite" },
+  { "source": "./assets/logos/aws.svg", "name": "aws" },
+  { "source": "./assets/logos/bash.svg", "name": "bash" },
+  { "source": "./assets/logos/docker.svg", "name": "docker" },
+  { "source": "./assets/logos/eslint.svg", "name": "eslint" },
+  { "source": "./assets/logos/github.svg", "name": "github" },
+  { "source": "./assets/logos/githubactions.svg", "name": "github actions" },
+  { "source": "./assets/logos/go.svg", "name": "go" },
+  {
+    "source": "./assets/logos/googlecloudplatform.svg",
+    "name": "google cloud platform"
+  },
+  { "source": "./assets/logos/jest.svg", "name": "jest" },
+  { "source": "./assets/logos/lua.svg", "name": "lua" },
+  { "source": "./assets/logos/mongodb.svg", "name": "mongodb" },
+  { "source": "./assets/logos/nestjs.svg", "name": "nestjs" },
+  { "source": "./assets/logos/nextjs.svg", "name": "nextjs" },
+  { "source": "./assets/logos/nginx.svg", "name": "nginx" },
+  { "source": "./assets/logos/nodejs.svg", "name": "nodejs" },
+  { "source": "./assets/logos/ohmyzsh.svg", "name": "ohmyzsh" },
+  { "source": "./assets/logos/postgressql.svg", "name": "postgressql" },
+  { "source": "./assets/logos/react.svg", "name": "react" },
+  { "source": "./assets/logos/redis.svg", "name": "redis" },
+  { "source": "./assets/logos/rust.svg", "name": "rust" },
+  { "source": "./assets/logos/socketio.svg", "name": "socketio" },
+  { "source": "./assets/logos/tailwindcss.svg", "name": "tailwindcss" },
+  { "source": "./assets/logos/tauri.svg", "name": "tauri" },
+  { "source": "./assets/logos/ubuntu.svg", "name": "ubuntu" },
+  { "source": "./assets/logos/vite.svg", "name": "vite" }
+]
